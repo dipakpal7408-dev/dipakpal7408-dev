@@ -1,14 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Hi%20There,%20I'm%20Dipak%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20C%2FC%2B%2B%20Enthusiast&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141321,50:FE428E,100:A9FEF7&height=200&section=header&text=Hi%20There,%20I'm%20Dipak%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20C%2FC%2B%2B%20Developer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Learning+C+%26+C%2B%2B+one+problem+at+a+time;Building+strong+DSA+fundamentals;Aspiring+Software+Developer;Open+to+learn+%26+collaborate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=650&lines=C+%2F+C%2B%2B+Developer+in+the+Making;Turning+Logic+Into+Clean+Code;DSA+%26+Problem+Solving+Enthusiast;Let's+Learn+%26+Build+Together!)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dipakpal7408-dev&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/dipakpal7408-dev?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&logo=github)
-![Stars](https://img.shields.io/github/stars/dipakpal7408-dev?label=STARS&style=for-the-badge&color=6366F1&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=dipakpal7408-dev&color=FE428E&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/dipakpal7408-dev?label=FOLLOWERS&style=for-the-badge&color=A9FEF7&logo=github&logoColor=black)
+![Stars](https://img.shields.io/github/stars/dipakpal7408-dev?label=STARS&style=for-the-badge&color=F8D866&logo=github&logoColor=black)
+
+<br/>
+
+|  |  |
+|---|---|
+| 🎓 **Status** | Computer Science Student |
+| 💻 **Focus** | C / C++ Programming |
+| 📍 **Location** | Lucknow, Uttar Pradesh, India |
+| 🌱 **Currently** | Strengthening Data Structures & Algorithms |
+| 🎯 **Looking For** | Internships & collaboration opportunities |
 
 </div>
 
@@ -18,6 +28,7 @@
 
 - [About Me](#-about-me)
 - [Currently Learning](#-currently-learning)
+- [2026 Goals](#-2026-goals)
 - [Tech Stack](#-tech-stack)
 - [Coding Profiles](#-coding-profiles)
 - [Featured Project](#-featured-project)
@@ -36,7 +47,7 @@ I'm a Computer Science student who genuinely enjoys the process of breaking a pr
 - 📚 Focused on **Data Structures & Algorithms** and core programming logic right now
 - 🌱 Learning in public — every repo here tracks my real practice and progress, no fluff
 - 🔭 Practicing consistently, one problem and one concept at a time
-- 🎯 Goal: turn strong fundamentals into real projects and, eventually, a solid internship
+- ⚡ Believer in strong fundamentals over shortcuts
 - 📍 Lucknow, Uttar Pradesh, India
 - 📫 Always open to connect with fellow learners, students, and developers
 
@@ -55,6 +66,17 @@ I'm a Computer Science student who genuinely enjoys the process of breaking a pr
 | Sorting & Searching Algorithms | 📌 Up Next |
 | Time & Space Complexity (Big-O) | 📌 Up Next |
 | Object-Oriented Programming in C++ | 📌 Up Next |
+
+---
+
+### 🎯 2026 Goals
+
+- [ ] Solve 100+ DSA problems across arrays, strings & linked lists
+- [ ] Get properly comfortable with Object-Oriented Programming in C++
+- [ ] Build 3 solid C/C++ projects beyond practice exercises
+- [ ] Start competitive programming on a regular platform
+- [ ] Contribute to at least one open-source repository
+- [ ] Land a solid internship / entry-level opportunity
 
 ---
 
@@ -87,7 +109,7 @@ I'm a Computer Science student who genuinely enjoys the process of breaking a pr
 ### 📌 Featured Project
 
 <a href="https://github.com/dipakpal7408-dev/C-Programming-Practice">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipakpal7408-dev&repo=C-Programming-Practice&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dipakpal7408-dev&repo=C-Programming-Practice&theme=radical&hide_border=true" />
 </a>
 
 A growing collection of C programs where I practice core logic, problem solving, and writing clean code — from basic syntax drills to more involved logic-building exercises. Updated regularly as I learn.
@@ -97,7 +119,7 @@ A growing collection of C programs where I practice core logic, problem solving,
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakpal7408-dev&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipakpal7408-dev&theme=radical&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -105,13 +127,17 @@ A growing collection of C programs where I practice core logic, problem solving,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dipakpal7408-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakpal7408-dev&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipakpal7408-dev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakpal7408-dev&theme=radical&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpal7408-dev&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=dipakpal7408-dev&theme=tokyonight&no-frame=true&row=1&column=4" width="52%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpal7408-dev&layout=compact&theme=radical&hide_border=true" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dipakpal7408-dev&theme=radical&no-frame=true&row=1&column=4" width="52%"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%"/>
 </p>
 
 ---
@@ -133,9 +159,10 @@ A growing collection of C programs where I practice core logic, problem solving,
 
 Thanks for stopping by — feel free to explore my repos and connect!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:A9FEF7,50:FE428E,100:141321&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 
